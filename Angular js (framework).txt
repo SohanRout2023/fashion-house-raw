@@ -1,0 +1,27 @@
+Angular js (framework)
+React js (Imp)
+===================
+(language)
+HTML  
+CSS 
+JAvascript
+
+Frondend
+
+Backend 
+
+database (SQL)
+
+Frondend Fullstank : MERN developer (Mongo DB +  + React + Node)
+
+Backend Fullstack : PHP/Pythin/Java + AWS/Google cloud/Azure + Hosting + deploy
+
+JSON: 
+[
+    {"title": "A", "image": "das", "price": "5", "brand": "AWS"},
+    {"title": "A", "image": "das", "price": "5", "brand": "AWS"},
+    {"title": "A", "image": "das", "price": "5", "brand": "AWS"},
+    {"title": "A", "image": "das", "price": "5", "brand": "AWS"},
+    {"title": "A", "image": "das", "price": "5", "brand": "AWS"},
+    {"title": "A", "image": "das", "price": "5", "brand": "AWS"},
+]
